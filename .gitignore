@@ -1,2 +1,2 @@
-*
-!*.vhd
+ALU/*
+!ALU/*.vhd
