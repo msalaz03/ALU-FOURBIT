@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "secureip" -o "/home/ise/ISE/Group14_Lab7/FOUR_BIT_ALU_TB_isim_beh.exe" -prj "/home/ise/ISE/Group14_Lab7/FOUR_BIT_ALU_TB_beh.prj" "work.FOUR_BIT_ALU_TB" 

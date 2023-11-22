@@ -1,4 +1,0 @@
-vhdl isim_temp "two_to_one_mux.vhd"
-vhdl isim_temp "logic.vhd"
-vhdl isim_temp "ALU_ONE_BIT.vhd"
-vhdl isim_temp "FOUR_BIT_ALU.vhd"

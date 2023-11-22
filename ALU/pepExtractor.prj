@@ -1,4 +1,0 @@
-work	"ALU_ONE_BIT.vhd"
-work	"FOUR_BIT_ALU.vhd"
-work	"logic.vhd"
-work	"two_to_one_mux.vhd"

@@ -1,5 +1,0 @@
-vhdl work "two_to_one_mux.vhd"
-vhdl work "logic.vhd"
-vhdl work "ALU_ONE_BIT.vhd"
-vhdl work "FOUR_BIT_ALU.vhd"
-vhdl work "FOUR_BIT_ALU_TB.vhd"
