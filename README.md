@@ -23,7 +23,7 @@
 </table>
 <br>
 
-<h2 align = "center">  <b>BLOCK DIAGRAM OF ONE STAGE:</b></h2>
+<h2 align = "center">  <b>Block Diagram:</b></h2>
 <br>
 <p align = "center">
   <img  src="Construction-of-a-4-bit-ALU-block-diagram.png" alt="Block Diagram of ALU">
