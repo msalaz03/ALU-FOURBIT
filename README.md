@@ -26,9 +26,21 @@
 <h2 align = "center">  <b>BLOCK DIAGRAM OF ONE STAGE:</b></h2>
 <br>
 <p align = "center">
-  <img  src="block-diagram-onestage-alu.png" alt="Block Diagram of ALU">
+  <img  src="Construction-of-a-4-bit-ALU-block-diagram.png" alt="Block Diagram of ALU">
 </p>
 
+<br>
+
+
+<h2 align = "center">  <b>iSim Wavefrom:</b></h2>
+<br>
+<p align = "center">
+  <img  src= "Capture.PNG" alt="waveform of simulation">
+</p>
+
+<p>NOTE: in the simulation only the LOGIC unit was functioning properly but when programmed onto the FPGA all functionalities were correct.</p>
+
+<br>
 
 
 
